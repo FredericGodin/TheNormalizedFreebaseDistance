@@ -1,4 +1,4 @@
-This code is the basic implementation of the Normalized Freebase Distance, presented at the Extended Semantic Web Conference 2014.
+This code is the basic implementation of the Normalized Freebase Distance, presented at the Extended Semantic Web Conference 2014. </br>
 The paper can be found at: http://2014.eswc-conferences.org/sites/default/files/eswc2014pd_submission_73.pdf
 The poster can be found at: http://www.slideshare.net/fgodin/the-normalized-freebase-distance-nfd
 
