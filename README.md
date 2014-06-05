@@ -9,3 +9,17 @@ If you want to set it up yourself, you can download the RDF triples here: https:
 You can use Virtuoso to query the triples.
 There is currently no public SPARQL endpoint for Freebase. 
 Freebase used the MQL language for querying.
+
+If you use the code, please cite us!
+
+@inproceedings{godinetal_nfd,
+    abstract = {{In this paper, we propose the Normalized Freebase Distance (NFD), a semantic-aware distance metric that is based on similar principles as the Normalized Web Distance (NWD). We illustrate that the NFD has clear advantages when comparing ambiguous concepts, while remaining computationally efficient.}},
+    author = {Godin, Fr\'{e}deric and De Nies, Tom and Beecks, Christian and De Vocht, Laurens and De Neve, Wesley and Mannens, Erik and Seidl, Thomas and Van de Walle, Rik},
+    day = {25-29},
+    journal = {Proceedings of the Extended Semantic Web Conference 2014},
+    keywords = {distance, freebase, nfd, normalized},
+    location = {Crete, Greece},
+    month = may,
+    title = {{The Normalized Freebase Distance}},
+    year = {2014}
+}
